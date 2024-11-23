@@ -1,5 +1,5 @@
 # CodeNode Nano Demo
-A proof-of-conecpt application the emulates a 6502 based microcontroller for use in Minecraft. You are able to program the MCU in assembly and run the code in real-time with the help of [vasm](http://sun.hasenbraten.de/vasm/), a 6502 assembler. The MCU is able to interact with four redstone wires and handle interrupts.
+A proof-of-conecpt application that emulates a 6502 based microcontroller for use in Minecraft. You are able to program the MCU in assembly and run the code in real-time with the help of [vasm](http://sun.hasenbraten.de/vasm/), a 6502 assembler. The MCU is able to interact with four redstone wires and handle interrupts.
 
 ![Screencapture](./screenshots/Screenshot%20from%202024-04-09%2002-17-05.png)
 
